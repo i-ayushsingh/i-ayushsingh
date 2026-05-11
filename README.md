@@ -31,13 +31,6 @@ Persistent AI memory across tools · Repo-aware context · Native dev store · F
 
 ---
 
-## 📊 GitHub Stats
-
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-ayushsingh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=3b82f6&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i-ayushsingh&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff)
-
----
 
 ## 🔗 Find Me
 
