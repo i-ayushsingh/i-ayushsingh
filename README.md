@@ -6,7 +6,7 @@
 
 ## 🚀 What I'm Building
 
-### [OSS Discovery](https://ossdiscovery.site) — Live ✦
+### [OSS Discovery](https://ossdiscovery.site) — Coming Soon ◎
 > The open source intelligence layer
 
 A curated directory of **1,284+ open source tools** across **41 categories**. Filter by language, license, platform and country of origin. No paid listings. No spam.
